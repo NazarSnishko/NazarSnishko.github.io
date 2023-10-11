@@ -1,1 +1,0 @@
-# NazarSnishko.github.io
