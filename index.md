@@ -3,7 +3,7 @@
 ## Сніжко Назарій
 ### Контактні дані
 
-*   Instagram (https://www.instagram.com/_._nazik_._/#)
+*   Instagram (https://www.instagram.com/_._nazik_._)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
