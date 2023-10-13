@@ -20,10 +20,3 @@
 1. Instagram (https://www.instagram.com/_._nazik_._)
 2. TikTik (https://www.tiktok.com/@t.music.ukraine?is_from_webapp=1&sender_device=pc)
 3. Telegram канал (https://t.me/t_music_ukraine)
-
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
